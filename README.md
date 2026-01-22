@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Hikmatullo
 
-<!--
-**Hikmatillo-dev/Hikmatillo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Pentester | Red Team Path  
+🖥 Arch Linux • Networking • Web Security  
+🧠 Learning Ethical Hacking through labs & CTFs  
 
-Here are some ideas to get you started:
+## 🛠 Skills (In Progress)
+- Linux CLI (Arch)
+- Git & GitHub
+- Networking Basics
+- Web Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- OWASP Top 10
+- Bash Scripting
+- Python for Pentesting
+
+## ⚠️ Disclaimer
+All activities are performed on legal labs and authorized environments only.
