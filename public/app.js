@@ -21,7 +21,7 @@ async function loadManga() {
       `
       )
       .join("");
-  } catch (_error) {
+  } catch {
     list.innerHTML = '<p>Maʼlumotlarni yuklashda xatolik yuz berdi.</p>';
   }
 }
