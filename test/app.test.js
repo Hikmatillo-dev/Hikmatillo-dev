@@ -2,6 +2,13 @@ const request = require("supertest");
 const app = require("../app");
 
 describe("Manga API", () => {
+  it("returns health status", async () => {
+    const response = await request(app).get("/api/health");
+
+    expect(response.statusCode).toBe(200);
+    expect(response.body).toEqual({ ok: true });
+  });
+
   it("returns manga list", async () => {
     const response = await request(app).get("/api/manga");
 
