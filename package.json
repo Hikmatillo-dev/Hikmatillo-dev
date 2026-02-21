@@ -1,0 +1,29 @@
+{
+  "name": "hikmatillo-dev",
+  "version": "1.0.0",
+  "description": "🎯 Junior Pentester | Red Team Path   🖥 Arch Linux • Networking • Web Security   🧠 Learning Ethical Hacking through labs & CTFs",
+  "main": "server.js",
+  "scripts": {
+    "test": "vitest run --globals",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hikmatillo-dev/Hikmatillo-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hikmatillo-dev/Hikmatillo-dev/issues"
+  },
+  "homepage": "https://github.com/Hikmatillo-dev/Hikmatillo-dev#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "supertest": "^7.2.2",
+    "vitest": "^4.0.18"
+  }
+}
