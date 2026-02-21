@@ -17,3 +17,19 @@
 
 ## ⚠️ Disclaimer
 All activities are performed on legal labs and authorized environments only.
+
+## 📚 Manga App (Full-Stack)
+- Backend: `Express` API (`/api/health`, `/api/manga`, `/api/manga/:id`)
+- Frontend: Vanilla HTML/CSS/JS (`public/`)
+- Data: `data/manga.js`
+
+### Run
+```bash
+npm install
+npm start
+```
+
+### Test
+```bash
+npm test
+```
